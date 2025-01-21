@@ -1,0 +1,19 @@
+.box{
+  height: 500px;
+  width: 640px;
+  /*background-color: blueviolet;*/
+  border: 2px solid red;
+  display: flex;
+  
+  /*justify-content:space-between; */
+  /*justify-content: space-around;*/
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+.box1{
+height: 100px;
+width: 100px;
+border: 2px solid blue;
+
+}
