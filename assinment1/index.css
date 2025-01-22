@@ -4,25 +4,25 @@
   border: 2px solid burlywood;
   border-radius: 8px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
 }
 .box1{
 height: 300px;
 width: 150px;
-border: 2px solid violet;
+border: 5px solid black;
 border-radius: 8px;
 }
 .box2{
   height: 400px;
 width: 200px;
-border: 2px solid violet;
+border: 5px solid black;
 border-radius: 8px;
 }
 .box3{
   height: 300px;
 width: 150px;
-border: 2px solid violet;
+border: 5px solid black;
 border-radius: 8px;
   
 }
